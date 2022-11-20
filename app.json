@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "NFTAppReactNative",
+    "owner": "hamzii.se",
     "slug": "NFTAppReactNative",
     "version": "1.0.0",
     "orientation": "portrait",

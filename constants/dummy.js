@@ -121,7 +121,7 @@ const NFTData = [
     creator: "David doe",
     price: 10.25,
     description:
-      "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.",
+      "The action painter abstract expressionists were directly influenced by automatism.",
     image: assets.nft05,
     bids: [
       {
